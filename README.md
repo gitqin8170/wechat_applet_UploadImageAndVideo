@@ -3,7 +3,9 @@
 
 ## 在需要上传页面的js中
 
-![]()
+![](https://github.com/gitqin8170/wechat_applet_UploadImageAndVideo/blob/master/images/1.png)
+![](https://github.com/gitqin8170/wechat_applet_UploadImageAndVideo/blob/master/images/2.png)
+![](https://github.com/gitqin8170/wechat_applet_UploadImageAndVideo/blob/master/images/3.png)
 
 
 
