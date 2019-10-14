@@ -1,0 +1,13 @@
+{
+	"svr": "server/",
+	"qcloudRoot": "server/",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx7c4f5f17e600f96c",
+	"projectname": "%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6",
+	"libVersion": "2.1.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
